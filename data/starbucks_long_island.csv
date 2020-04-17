@@ -1,0 +1,21 @@
+storenumber,name,phonenumber,addresslines,zipcode,hours_open_per_week,has_lu,has_wa,has_vs,has_cl
+7217-623,7000 Austin Street,718-268-4719,"7000 Austin Street,Forest Hills, NY 11375",11375,108,true,true,true,true
+7349-910,107-12 Continental Avenue,(718) 793-4057,"107-12 Continental Avenue,Forest Hills, NY 11375",11375,116.5,true,true,false,false
+73708-104729,Stop & Shop-Forest Hills #539,718-846-2310,"8989 Union Turnpike,Forest Hills, NY 11375",11375,112,false,true,false,false
+7897-82740,Queens Blvd & 67th Rd,718-459-6923,"10102 Queens Blvd.,Forest Hills, NY 11375",11375,114.5,true,true,true,false
+11933-106885,118-24 Queens Blvd,718 261-4246,"118-24 Queens Blvd,Kew Gardens, NY 11415",11415,114,true,true,true,false
+11812-106572,Shops at Atlas Park,718-416-1521,"8000 Cooper Avenue,Glendale, NY 11385",11385,111,true,true,true,false
+24165-236144,95-17 63rd Drive,347-757-0261,"95-17 63rd Drive,Rego Park, NY 11374",11374,114,true,true,true,false
+22716-223428,92-77 Queens Blvd,3479972496,"92-77 Queens Blvd,Rego Park, NY 11374",11374,126,true,true,true,true
+57154-291133,59-17 Junction Blvd,7182712282,"59-17 Junction Blvd,Elmhurst, NY 11373",11373,114.5,true,true,false,false
+2787-35599,Queens Center Mall,718-699-7856,"90-15 Queens Boulevard,K203,Elmhurst, NY 11373",11373,89.5,true,true,false,false
+21514-211004,132-40 Metropolitan Ave,718-262-8691,"132-40 Metropolitan Ave,Richmond Hill, NY 11418",11418,112,true,true,true,false
+13133-113948,Target Queens Place T-1344,718-760-5656,"8801 Queens Blvd,Elmhurst, NY 11373",11373,97,false,true,false,false
+17202-177784,Queens Blvd & Broadway,718 5652021,"86-51 Broadway,Elmhurst, NY 11373",11373,112,true,true,true,false
+54304-286369,74-25 Grand Ave.-Shops at Grand,7183351957,"74-25 Grand Ave.,Maspeth, NY 11373",11373,113.5,true,true,false,false
+25685-242005,89th Ave & Sutphin Blvd.,3472331463,"8900 Sutphin Blvd.,Jamaica, NY 11435",11435,102,true,true,false,false
+55519-278767,New York Presbyterian Queens,null,"56-45 MAIN STREET,FLUSHING, NY 11355",11355,100,false,false,false,false
+48116-261453,159-27 Jamaica Ave.,3476841198,"159-27 jamaica Ave.,Jamaica, NY 11432",11432,105,true,true,false,false
+3928-138154,St. John's University - Queens,7189901716,"8000 Utopia Pkwy,Jamaica, NY 11432",11432,105,false,false,false,false
+14317-120366,78-25 37th Avenue,718-457-0875,"78-25 37th Avenue,Jackson Heights, NY 11372",11372,121.5,true,true,false,false
+9077-145446,Target Flushing T-2451,347-532-9942,"40-24 College Point Blvd,Flushing, NY 11354",11354,87,false,false,false,false
